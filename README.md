@@ -1,9 +1,7 @@
 - Hey, I’m Ethan
-- Phoenix, AZ
-- I’m interested in UI/UX Design.
-- I’m currently learning React.
-- I’m looking for a new project.
-- How you can reach me: ethanhart35@ehart.dev
+- I’m interested in 3d modeling/design.
+- I’m currently Creating a cool new mod for Vintage Story.
+- I’m looking for a Job
 
 <!---
 ethanhart35/ethanhart35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
